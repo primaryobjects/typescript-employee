@@ -7,6 +7,13 @@ A quick example of creating a TypeScript application!
 
 This example uses TypeScript to create a simple Employee set of classes, including an interface, abstract base class, static utility method, and an array of interfaces (using the Strategy Design Pattern).
 
+## Quick Start
+
+```bash
+npm install
+npm start
+```
+
 ## Layout
 
 ```
